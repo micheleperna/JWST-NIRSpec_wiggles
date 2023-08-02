@@ -1,0 +1,18 @@
+{
+  "sourcename": "LBQS0302-0019+JIL",
+
+  "pathcube_input": "/misc/pacifico/jwst/mastDownload/LBQS0302-0019+JIL_p1220_o002/LBQS0302-0019+JIL_g235h-f170lp/DAcubes/",
+  "cube_input": "LBQS0302-0019+JIL_jw1220_o002_CTX1041_v1.8.2_g235h-f170lp.fits",
+
+
+  "pos_nucleus": [16,16],
+  "z": 3.28485429322,
+  "r_integ": 10,
+  "mask_Hacomplex": [2.75, 2.87],     
+  "gap_window": [2.38, 2.435],
+  "con_to_be_subtracted": [[1.675,1.686],[1.71,1.75],[1.9,2.0],[2.2,2.35],[2.5,2.7],[2.9,3.2]],
+  "DV": 1000,
+  "f0": 40,
+  "bf0": [0.5,50],
+  "df0i": [15, 10, 5, 5]
+}
